@@ -1,0 +1,58 @@
+.multipleImageContent {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+}
+.imageFlex {
+  position: relative;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+  border: 1px solid rgb(248, 246, 246);
+  margin-bottom: 50px;
+}
+.uploadImage-Containers {
+  position: relative;
+  left: 350px;
+  top: 100px;
+  width: 700px;
+  height: 500px;
+  overflow: scroll;
+  border: 1px solid rgb(254, 249, 249);
+}
+.Image-section {
+  position: relative;
+  top: 80px;
+  width: 400px;
+  height: 200px;
+  left: 400px;
+  border: 1px solid gray;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px orangered;
+}
+.imageChoose {
+  font-size: 20px;
+}
+.submitBtns {
+  position: relative;
+  left: 120px;
+  top: 40px;
+  padding: 10px;
+  background-color: rgb(168, 231, 168);
+  border: 1px solid rgb(169, 202, 169);
+  border-radius: 5px;
+  width: 170px;
+}
+.inputbtn {
+  padding: 10px;
+  position: relative;
+  background-color: yellow;
+  left: 150px;
+  top: -30px;
+}
